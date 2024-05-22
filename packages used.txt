@@ -1,0 +1,9 @@
+Install Required Packages:
+pip install requests beautifulsoup4
+
+
+Run the Script:
+Save the script to a file, for example, scrape_quotes.py, and run it
+
+This script will scrape quotes from the first 5 pages of http://quotes.toscrape.com/, print the scraped data to the console, and save it to a CSV file named quotes.csv.
+
